@@ -1,0 +1,6 @@
+framework module Pods_SystemTaskVajro {
+  umbrella header "Pods-SystemTaskVajro-umbrella.h"
+
+  export *
+  module * { export * }
+}
